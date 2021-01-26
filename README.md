@@ -1,4 +1,5 @@
-# A simple Go Chat CLI implementing a cool Chat System.
+# Go Chat CLI
+### A simple Go Chat CLI implementing a cool Chat System.
 
 This package implements a chat system using a low level PUB/SUB single channel system. This is a simple version having a single channel system, which will be further enhanced later.
 
